@@ -37,7 +37,7 @@ The input of this scraper should be JSON containing the list of pages on Loopnet
 
 This solution requires the use of **Proxy servers**, either your own proxy servers or you can use [Apify Proxy](https://www.apify.com/docs/proxy).
 
-##### Tip
+### Tip
 
 When you want to have a scrape over a specific listing URL, just copy and paste the link as one of the **startUrl**.
 
